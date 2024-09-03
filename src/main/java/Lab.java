@@ -59,7 +59,7 @@ public class Lab {
     public boolean lessThanOrEqualTo(int a, int b){
         return a <= b;
     }
-    
+    //commiut change
     /**
      * @param a the first number to be compared.
      * @param b the second number to be compared.
